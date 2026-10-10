@@ -1,0 +1,4 @@
+# MLS data stays local (licensed CRMLS data, and too big for git)
+*.csv
+.ipynb_checkpoints/
+__pycache__/
