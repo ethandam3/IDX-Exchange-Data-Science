@@ -6,3 +6,5 @@ geopandas
 xgboost
 lightgbm
 optuna
+streamlit
+joblib
